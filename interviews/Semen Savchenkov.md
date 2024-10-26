@@ -7,8 +7,9 @@ _Мы решили вернуться с новым интервью к двух
 > С предыдущим интервью можно познакомиться по
 > [ссылке](https://github.com/KFalcon2022/participant-interviews/blob/master/interviews/Evgeniy%20Kolokolov.md).
 
-
 _Сегодня мы узнаем поближе ещё одного активного участника канала, Семена ([@semen67sml](https://t.me/semen67sml))._
+
+&nbsp;
 
 **Семен, Привет! Расскажи немного о себе.**
 
